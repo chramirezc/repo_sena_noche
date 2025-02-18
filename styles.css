@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fontastic';
+    src: url('/untitled-font-1/fonts/untitled-font-1.woff2') format('woff2'),
+         url('/untitled-font-1/fonts/untitled-font-1.woff') format('woff'),
+         url('/untitled-font-1/fonts/untitled-font-1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
